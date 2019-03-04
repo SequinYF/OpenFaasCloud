@@ -1,4 +1,4 @@
-language: python3
+language: mirror-python3
 fprocess: python3 index.py
 build_options: 
   - name: dev
