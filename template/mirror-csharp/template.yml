@@ -1,0 +1,2 @@
+language: mirror-csharp
+fprocess: dotnet ./root.dll

@@ -1,0 +1,2 @@
+language: mirror-node-arm64
+fprocess: node index.js
